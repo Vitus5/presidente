@@ -42,3 +42,4 @@ local.properties
 
 .DS_Store
 velocity.log
+/target/
